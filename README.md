@@ -13,12 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dj157&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dj157&layout=compact&theme=transparent" />
-</p>
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,css,html,postgres,docker,vercel,aws,git,vscode,github" /> </p>
 
