@@ -7,8 +7,7 @@
 
 - Building **SciSearch**
 - Developing AI applications
-- Learning system design and distributed systems
-- Studying scientific papers and open-source AI
+- Learning system design and scalability
 - Building projects to learn by doing
 
 ---
