@@ -13,7 +13,7 @@
 ---
 
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,css,html,postgres,docker,vercel,aws,git,vscode,github" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,postgres,docker,vercel,aws,git,vscode,github" /> </p>
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -27,4 +27,4 @@
 
 ## Contact
 
-📧 **dzg157@gmail.com**
+📧 **dzj157@gmail.com**
