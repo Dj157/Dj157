@@ -6,6 +6,7 @@
 ## Currently
 
 - Building **SciSearch**
+- https://scisearch.earlybeta.workers.dev/pt-BR
 - Developing AI applications
 - Learning system design and scalability
 - Building projects to learn by doing
